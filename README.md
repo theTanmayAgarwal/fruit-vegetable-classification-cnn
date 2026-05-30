@@ -8,6 +8,11 @@ A deep learning-based image classification web application built using TensorFlo
 * Predicts the category using a trained CNN model
 * Displays confidence score
 * Supports 36 fruit and vegetable classes
+
+## Live Demo
+
+https://thetanmayagarwal-fruit-vegetable-classifier.hf.space
+
 ## Demo
 
 ![App Screenshot](Project%20Screenshot%20(Hugging%20Face%20App).png)
